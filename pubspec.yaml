@@ -28,6 +28,23 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  http: ^0.13.4
+  html: ^0.15.0
+  flutter_svg: ^0.22.0
+  intl: ^0.17.0
+  webview_flutter: ^3.0.0
+  audioplayers: ^0.18.0
+  scrollable_positioned_list: ^0.2.0
+  sqflite: ^2.2.8+4
+  path: ^1.8.2
+  path_provider: ^2.0.15
+  gesture_zoom_box: ^0.0.4
+  marquee: ^2.2.3
+  url_launcher: ^6.0.9
+  image_picker: ^1.0.1
+  flutter_statusbarcolor_ns: ^0.5.0
+  spell_check_on_client: ^0.0.5
+  speech_to_text: ^6.1.1
   flutter:
     sdk: flutter
 
@@ -52,6 +69,35 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  assets:
+    - images/logo.jpg
+    - images/OIP (2).jpg
+    - images/avatar.png
+    - assets/son/son.wav
+    - images/chinois.png
+    - images/chercher.jpg
+    - images/dico.jpg
+    - images/dictionnaire.jpg
+    - images/Sans titre-1.jpg
+    - assets/chat_messages.db
+    - assets/chat_message.db
+    - images/ima.jpg
+    - images/lima.jpg
+    - images/fond.jpg
+    - images/télécharger.png
+    - images/télécharger.jpg
+    - images/imana.jpg
+    - images/avnoir.png
+    - images/imagesconj.jpg
+    - images/sombre.jpg
+    - images/themsombre.jpg
+    - images/themclair.jpg
+    - images/sombre.jpg
+    - images/fondclair.jpg
+    - images/2emsombre.jpg
+    - images/sans.jpg
+    - assets/son/son - Copie.mp3
+    - images/ecri.png
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
